@@ -1,0 +1,30 @@
+[
+    {
+        "nama": "Mek",
+        "umur": 20,
+        "nim": "A11.2019.12028",
+        "lulus": false,
+        "hobby": [
+            "coding",
+            "reading"
+        ],
+        "pembimbing": {
+            "pembimbing1": "Prof TB. Maulana",
+            "pembimbing2": "Prof Aghni"
+        }
+    },
+    {
+        "nama": "Mek",
+        "umur": 20,
+        "nim": "A11.2019.12028",
+        "lulus": false,
+        "hobby": [
+            "coding",
+            "reading"
+        ],
+        "pembimbing": {
+            "pembimbing1": "Prof TB. Maulana",
+            "pembimbing2": "Prof Aghni"
+        }
+    }
+]
